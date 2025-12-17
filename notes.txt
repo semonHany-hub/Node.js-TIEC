@@ -46,7 +46,7 @@
   - git LFS (standing for large File Storage) used in this project for uploading zip folders or other large folders to github.
   - 'git lfs install' install git LFS.
   - 'git lfs track file-name' this command create gitattribute file containing the files git lfs tracks.
-  - 'git checkout branch-name' this command check the status of commits between local and remote branch and warn the incoming changes that will result by the pul request.
+  - 'git checkout branch-name' this command check the of commits between local and remote branch and warn the incoming changes that will result by the pul request.
   - 'git push origin semon-hany --force' this command push to the branch named semon-hany and overwrite the existing old branch without causing merge.
 
                               npm
